@@ -32,7 +32,7 @@ Unleash the full power of FLUX on your desktop.
 - **Version**: v1.0.0
 - **Date**: August 8, 2026
 - **Release Notes**: Initial release of the Flux Desktop application.
-- **Download**: [📥 Download Installer](https://github.com/wadecalvin9/Flux-Releases/releases/download/v1.0.0/Flux.Setup.1.0.0.exe)
+- **Download**: [📥 Download Installer](https://github.com/wadecalvin9/Flux-Releases/releases/download/v1.0.0/Flux.Setup.1.0.2.exe)
 
 #### Desktop Screenshots
 
