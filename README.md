@@ -6,7 +6,7 @@ Download the latest stable FLUX applications for mobile and desktop. The links b
 
 | Platform | Release | Download |
 | --- | --- | --- |
-| Android | Latest | [Download the FLUX Mobile APK](https://github.com/wadecalvin9/flux-releases/releases/latest/download/FluxMobile-release.apk) |
+| Android | Latest | [Download the FLUX Mobile APK](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) |
 | Desktop | Latest | [Download the FLUX Desktop installer](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.10/Flux-Setup-1.0.10.exe) |
 
 See the [releases page](https://github.com/wadecalvin9/flux-releases/releases) for release notes and any newer versions.
