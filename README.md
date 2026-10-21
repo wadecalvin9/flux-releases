@@ -1,53 +1,35 @@
-# Flux-Releases
+# FLUX Releases
 
-Welcome to the **FLUX Ecosystem Releases** repository. This is the central hub for hosting the final, compiled, and stable applications and software for the FLUX ecosystem. Here you will find ready-to-use binaries and executables for both Desktop and Mobile platforms.
+Download the latest stable FLUX applications for mobile and desktop. The links below always point to the corresponding files attached to the latest GitHub release.
 
-## 🚀 Latest Releases (v1.0.0)
+## Downloads
 
-We are excited to announce our initial release (v1.0.0)! 
+| Platform | Release | Download |
+| --- | --- | --- |
+| Android | Latest | [Download the FLUX Mobile APK](https://github.com/wadecalvin9/flux-releases/releases/latest/download/FluxMobile-release.apk) |
+| Desktop | Latest | [Download the FLUX Desktop installer](https://github.com/wadecalvin9/flux-releases/releases/latest/download/Flux.Setup.1.0.2.exe) |
 
-### 📱 Flux Mobile
+See the [releases page](https://github.com/wadecalvin9/flux-releases/releases) for release notes and any newer versions.
 
-Experience FLUX on the go. 
+## Screenshots
 
-- **Version**: v1.0.0
-- **Date**: August 8, 2026
-- **Release Notes**: Initial release of the Flux Mobile app.
-- **Download**: [📥 Download APK](https://github.com/wadecalvin9/Flux-Releases/releases/download/v1.0.0/FluxMobile-release.apk)
-
-#### Mobile Screenshots
+### FLUX Mobile
 
 <div align="center">
-  <img src="assets/mobile/scrn1.jpeg" width="200" alt="Mobile Screenshot 1"/>
-  <img src="assets/mobile/scrn2.jpeg" width="200" alt="Mobile Screenshot 2"/>
-  <img src="assets/mobile/scrn3.jpeg" width="200" alt="Mobile Screenshot 3"/>
+  <img src="assets/mobile/scrn1.jpeg" width="200" alt="FLUX Mobile screenshot 1" />
+  <img src="assets/mobile/scrn2.jpeg" width="200" alt="FLUX Mobile screenshot 2" />
+  <img src="assets/mobile/scrn3.jpeg" width="200" alt="FLUX Mobile screenshot 3" />
+  <img src="assets/mobile/scrn4.jpeg" width="200" alt="FLUX Mobile screenshot 4" />
 </div>
 
----
-
-### 💻 Flux Desktop
-
-Unleash the full power of FLUX on your desktop.
-
-- **Version**: v1.0.0
-- **Date**: August 8, 2026
-- **Release Notes**: Initial release of the Flux Desktop application.
-- **Download**: [📥 Download Installer](https://github.com/wadecalvin9/Flux-Releases/releases/download/v1.0.0/Flux.Setup.1.0.2.exe)
-
-#### Desktop Screenshots
+### FLUX Desktop
 
 <div align="center">
-  <img src="assets/Desktop/scrn1.png" width="800" alt="Desktop Screenshot 1"/>
-  <br/><br/>
-  <img src="assets/Desktop/scrn2.png" width="800" alt="Desktop Screenshot 2"/>
-  <br/><br/>
-  <img src="assets/Desktop/scrn3.png" width="800" alt="Desktop Screenshot 3"/>
+  <img src="assets/Desktop/scrn1.png" width="800" alt="FLUX Desktop screenshot 1" />
+  <br /><br />
+  <img src="assets/Desktop/scrn2.png" width="800" alt="FLUX Desktop screenshot 2" />
+  <br /><br />
+  <img src="assets/Desktop/scrn3.png" width="800" alt="FLUX Desktop screenshot 3" />
+  <br /><br />
+  <img src="assets/Desktop/scrn4.png" width="800" alt="FLUX Desktop screenshot 4" />
 </div>
-
----
-
-## 🎯 Purpose
-
-- **Final Releases**: Download the latest stable versions of our applications.
-- **Flux Software**: Central hub for all Flux ecosystem binaries and executables.
-
