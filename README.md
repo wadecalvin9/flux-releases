@@ -21,3 +21,11 @@ See the [releases page](https://github.com/wadecalvin9/flux-releases/releases) f
   <br /><br />
   <img src="assets/Desktop/scrn4.png" width="800" alt="FLUX Desktop screenshot 4" />
 </div>
+
+### FLUX Mobile
+<div align="center">
+  <img src="assets/mobile/01.jpeg" width="800" alt="FLUX mobile screenshot 1" />
+<img src="assets/mobile/02.jpeg" width="800" alt="FLUX mobile screenshot 2" />
+  <br /><br />
+  <img src="assets/mobile/03.jpeg" width="800" alt="FLUX mobile screenshot 3" />
+</div>
