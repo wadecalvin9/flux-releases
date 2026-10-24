@@ -30,8 +30,7 @@ Get the official, latest builds of FLUX below. Links always point directly to ve
 | Platform | Target Device | Version | Direct Download |
 | :--- | :--- | :--- | :--- |
 | **Windows** | Windows 10 / 11 (x64) | `v1.0.12` | [⬇️ **Download FLUX Desktop Installer (.exe)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-Setup-1.0.12.exe) |
-| **Android Mobile** | Android Phones & Tablets (7.0+) | `v1.0.0` | [📱 **Download FLUX Mobile APK (.apk)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) |
-| **Android TV** | Smart TVs & Streaming Sticks | `v1.0.0` | [📺 **Download FLUX TV APK (.apk)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxTv.apk) |
+| **Android Mobile** | Android Phones & Tablets (7.0+) | `v1.0.1` | [📱 **Download FLUX Mobile APK (.apk)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) |
 | **Linux (AppImage)** | All Linux Distributions (x64) | `v1.0.12` | [📦 **Download FLUX AppImage**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-1.0.12.AppImage) |
 | **Linux (Debian)** | Ubuntu / Debian / Mint (`.deb`) | `v1.0.12` | [🐧 **Download FLUX Debian Package**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/flux_1.0.12_amd64.deb) |
 
@@ -118,7 +117,7 @@ Designed for large screens with hardware-accelerated rendering, keyboard shortcu
 3. Launch FLUX from your desktop shortcut or Start Menu.
 
 ### 📱 Android Mobile & TV
-1. Download [FluxMobile-release.apk](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) (for phones/tablets) or [FluxTv.apk](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxTv.apk) (for Android TV/Fire TV).
+1. Download [FluxMobile-release.apk](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) (for phones/tablets)
 2. When prompted, allow installation from **Unknown Sources** in your device security settings.
 3. Tap **Install** and launch FLUX.
 
@@ -136,5 +135,5 @@ Designed for large screens with hardware-accelerated rendering, keyboard shortcu
 ---
 
 <div align="center">
-  <sub>Made with ❤️ for entertainment lovers. For support and discussions, check out the <a href="https://github.com/wadecalvin9/flux-releases/releases">Releases Page</a>.</sub>
+  <sub>Check out the <a href="https://github.com/wadecalvin9/flux-releases/releases">Releases Page</a>.</sub>
 </div>
