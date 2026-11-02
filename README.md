@@ -29,10 +29,10 @@ Get the official, latest builds of FLUX below. Links always point directly to ve
 
 | Platform | Target Device | Version | Direct Download |
 | :--- | :--- | :--- | :--- |
-| **Windows** | Windows 10 / 11 (x64) | `v1.0.12` | [⬇️ **Download FLUX Desktop Installer (.exe)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-Setup-1.0.12.exe) |
+| **Windows** | Windows 10 / 11 (x64) | `v1.0.13` | [⬇️ **Download FLUX Desktop Installer (.exe)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.13/Flux-Setup-1.0.13.exe) |
 | **Android Mobile** | Android Phones & Tablets (7.0+) | `v1.0.1` | [📱 **Download FLUX Mobile APK (.apk)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) |
-| **Linux (AppImage)** | All Linux Distributions (x64) | `v1.0.12` | [📦 **Download FLUX AppImage**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-1.0.12.AppImage) |
-| **Linux (Debian)** | Ubuntu / Debian / Mint (`.deb`) | `v1.0.12` | [🐧 **Download FLUX Debian Package**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/flux_1.0.12_amd64.deb) |
+| **Linux (AppImage)** | All Linux Distributions (x64) | `v1.0.13` | [📦 **Download FLUX AppImage**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-1.0.12.AppImage) |
+| **Linux (Debian)** | Ubuntu / Debian / Mint (`.deb`) | `v1.0.13` | [🐧 **Download FLUX Debian Package**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/flux_1.0.12_amd64.deb) |
 
 > 💡 **Looking for past releases, checksums, or release notes?** Check the official [GitHub Releases](https://github.com/wadecalvin9/flux-releases/releases) page.
 
