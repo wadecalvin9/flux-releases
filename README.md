@@ -10,8 +10,8 @@ Stream your favorite movies, TV shows, anime, and manga with cinema-grade playba
   <a href="https://github.com/wadecalvin9/flux-releases/releases/latest">
     <img src="https://img.shields.io/github/v/release/wadecalvin9/flux-releases?style=for-the-badge&color=E50914&label=Desktop%20Release" alt="Latest Desktop Release" />
   </a>
-  <a href="https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk">
-    <img src="https://img.shields.io/badge/Mobile%20APK-v1.0.0-E50914?style=for-the-badge&logo=android&logoColor=white" alt="Mobile APK Release" />
+  <a href="https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.2/FluxMobile-release.apk">
+    <img src="https://img.shields.io/badge/Mobile%20APK-v1.0.2-E50914?style=for-the-badge&logo=android&logoColor=white" alt="Mobile APK Release" />
   </a>
   <a href="https://github.com/wadecalvin9/flux-releases/releases">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Linux%20%7C%20TV-1c1c1c?style=for-the-badge" alt="Platforms Supported" />
@@ -30,9 +30,9 @@ Get the official, latest builds of FLUX below. Links always point directly to ve
 | Platform | Target Device | Version | Direct Download |
 | :--- | :--- | :--- | :--- |
 | **Windows** | Windows 10 / 11 (x64) | `v1.0.13` | [⬇️ **Download FLUX Desktop Installer (.exe)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.13/Flux-Setup-1.0.13.exe) |
-| **Android Mobile** | Android Phones & Tablets (7.0+) | `v1.0.1` | [📱 **Download FLUX Mobile APK (.apk)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) |
-| **Linux (AppImage)** | All Linux Distributions (x64) | `v1.0.13` | [📦 **Download FLUX AppImage**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-1.0.12.AppImage) |
-| **Linux (Debian)** | Ubuntu / Debian / Mint (`.deb`) | `v1.0.13` | [🐧 **Download FLUX Debian Package**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/flux_1.0.12_amd64.deb) |
+| **Android Mobile** | Android Phones & Tablets (7.0+) | `v1.0.2` | [📱 **Download FLUX Mobile APK (.apk)**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.2/FluxMobile-release.apk) |
+| **Linux (AppImage)** | All Linux Distributions (x64) | `v1.0.13` | [📦 **Download FLUX AppImage**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.13/Flux-1.0.13.AppImage) |
+| **Linux (Debian)** | Ubuntu / Debian / Mint (`.deb`) | `v1.0.13` | [🐧 **Download FLUX Debian Package**](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.13/flux_1.0.13_amd64.deb) |
 
 > 💡 **Looking for past releases, checksums, or release notes?** Check the official [GitHub Releases](https://github.com/wadecalvin9/flux-releases/releases) page.
 
@@ -100,36 +100,37 @@ Designed for large screens with hardware-accelerated rendering, keyboard shortcu
 
 ## ✨ Key Features
 
-- **Multi-Device Support**: Full native support for Windows Desktop, Android Smartphones, Android TV, and Linux.
-- **Ultra-Crisp Playback**: Support for 4K HDR, adaptive streaming, and hardware-accelerated video decoding.
-- **Picture-in-Picture (PiP)**: Multitask while watching your favorite titles without missing a frame.
-- **Comprehensive Library**: Stream movies, TV shows, anime, and read manga in one unified app.
+- **Multi-Device Support**: Native apps for Windows Desktop, Android Mobile, Android TV, and Linux with cross-device Watchlist, Continue Watching, and History sync.
+- **Ultra-Crisp Playback**: Support for adaptive streaming, hardware-accelerated video decoding, and 24Hz cinema cadence optimization on mobile AMOLED panels.
+- **Offline Downloads & MP4 Export (Mobile)**: Background foreground service notifications, custom storage folders, lossless HLS-to-MP4 remuxing into your device Gallery, and Wi-Fi Only protection.
+- **Picture-in-Picture & Lock Screen Controls**: Multitask with floating PiP windows, Bluetooth transport buttons, and automatic pause/resume during calls.
+- **In-App Self-Updater & Anti-ISP DoH Shield**: Built-in DNS-over-HTTPS stream resolution and seamless in-app updates.
 - **Subtitles & Multi-Track Audio**: Switch between audio tracks and fetch subtitles with customizable styling.
-- **Personalized Avatars & Profiles**: Customize your persona with custom avatars and tailored streaming preferences.
+- **Comprehensive Library**: Movies, TV shows, and anime everywhere (plus manga reading and community features on FLUX Desktop).
 
 ---
 
 ## 🚀 Installation Instructions
 
 ### 🪟 Windows
-1. Download [Flux-Setup-1.0.12.exe](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.12/Flux-Setup-1.0.12.exe).
+1. Download [Flux-Setup-1.0.13.exe](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.13/Flux-Setup-1.0.13.exe).
 2. Double-click the installer and follow the prompt instructions to complete setup.
 3. Launch FLUX from your desktop shortcut or Start Menu.
 
-### 📱 Android Mobile & TV
-1. Download [FluxMobile-release.apk](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.0/FluxMobile-release.apk) (for phones/tablets)
+### 📱 Android Mobile
+1. Download [FluxMobile-release.apk](https://github.com/wadecalvin9/flux-releases/releases/download/v1.0.2/FluxMobile-release.apk) (`v1.0.2`).
 2. When prompted, allow installation from **Unknown Sources** in your device security settings.
-3. Tap **Install** and launch FLUX.
+3. Tap **Install** and launch FLUX. Future updates can be installed directly inside **Profile → Check for Updates**.
 
 ### 🐧 Linux
 - **AppImage**:
   ```bash
-  chmod +x Flux-1.0.12.AppImage
-  ./Flux-1.0.12.AppImage
+  chmod +x Flux-1.0.13.AppImage
+  ./Flux-1.0.13.AppImage
   ```
 - **Debian / Ubuntu**:
   ```bash
-  sudo dpkg -i flux_1.0.12_amd64.deb
+  sudo dpkg -i flux_1.0.13_amd64.deb
   ```
 
 ---
